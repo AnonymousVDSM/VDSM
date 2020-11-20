@@ -7,36 +7,36 @@ Note that these are random samples from the test set, so there may be inactive G
 
 Pendulum swings (60 timesteps)
 
-![](pend_1.gif)![](pend_2.gif)![](pend_3.gif)![](pend_4.gif)![](pend_5.gif)
+![](./samples/pend_1.gif)![](./samples/pend_2.gif)![](./samples/pend_3.gif)![](./samples/pend_4.gif)![](./samples/pend_5.gif)
 
 MovingMNIST [3] (16 timesteps)
 
-![](mnist_1.gif)![](mnist_2.gif)
+![](./samples/mnist_1.gif)![](./samples/mnist_2.gif)
 
 
 Animated Sprites [1] (8 timesteps)
 
-![](sprite_2.gif)
-![](sprite_3.gif)
-![](sprite_4.gif)
+![](./samples/sprite_2.gif)
+![](./samples/sprite_3.gif)
+![](./samples/sprite_4.gif)
 
 Animated Sprites Action Transfer (first column is target action):
 
-![](sprite_trans_1.gif)
+![](./samples/sprite_trans_1.gif)
 
 MUG-FED [2] (20 timesteps)
 
-![](mug_1.gif)
+![](./samples/mug_1.gif)
 
-![](mug_2.gif)
+![](./samples/mug_2.gif)
 
-![](mug_3.gif)
+![](./samples/mug_3.gif)
 
 MUG-FED Action Transfer (first column is target action):
 
-![](mug_swap_1.gif)
+![](./samples/mug_swap_1.gif)
 
-![](mug_swap_2.gif)
+![](./samples/mug_swap_2.gif)
 
 
 ## Required Packages/Libraries
