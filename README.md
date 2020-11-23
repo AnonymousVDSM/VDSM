@@ -7,20 +7,20 @@ Note that these are random samples from the test set, so there may be inactive G
 
 **Pendulum swings (60 timesteps)**
 
-Conditional video samples from VDSM.
+Conditional video samples from VDSM (identity and action embeddings are provided and VDSM uses these to generate the resulting sequence).
 
 ![](./samples/pend_1.gif)![](./samples/pend_2.gif)![](./samples/pend_3.gif)![](./samples/pend_4.gif)![](./samples/pend_5.gif)
 
 **MovingMNIST [3] (16 timesteps)**
 
-Conditional video samples from VDSM.
+Conditional video samples from VDSM (identity and action embeddings are provided and VDSM uses these to generate the resulting sequence).
 
 ![](./samples/mnist_1.gif) ![](./samples/mnist_2.gif)
 
 
 **Animated Sprites [1] (8 timesteps)**
 
-Conditional video samples from VDSM.
+Conditional video samples from VDSM (identity and action embeddings are provided and VDSM uses these to generate the resulting sequence).
 
 ![](./samples/sprite_2.gif)
 ![](./samples/sprite_3.gif)
