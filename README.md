@@ -6,16 +6,22 @@ CVPR 21 Submission - Source Code and Qualitative Examples
 Note that these are random samples from the test set, so there may be inactive GIFs if the action is neutral.
 
 **Pendulum swings (60 timesteps)**
+
 Conditional video samples from VDSM.
+
 ![](./samples/pend_1.gif)![](./samples/pend_2.gif)![](./samples/pend_3.gif)![](./samples/pend_4.gif)![](./samples/pend_5.gif)
 
 **MovingMNIST [3] (16 timesteps)**
+
 Conditional video samples from VDSM.
+
 ![](./samples/mnist_1.gif) ![](./samples/mnist_2.gif)
 
 
 **Animated Sprites [1] (8 timesteps)**
+
 Conditional video samples from VDSM.
+
 ![](./samples/sprite_2.gif)
 ![](./samples/sprite_3.gif)
 ![](./samples/sprite_4.gif)
