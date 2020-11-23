@@ -1,5 +1,5 @@
-# DisentanglingSequences
-In the interests of reproducibility, this repository contains instructions and code for a release version of the work on hierarchical state space models for video disentanglement: **VDSM: Unsupervised Video Disentanglement with State-Space Modeling and Deep Mixtures of Experts** (Anon, under review)
+# VDSM: Unsupervised Video Disentanglement with State-Space Modeling and Deep Mixtures of Experts
+CVPR 21 Submission - Source Code and Qualitative Examples
 
 ##  Generation Samples
 
